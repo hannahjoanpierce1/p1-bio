@@ -1,19 +1,35 @@
 /* Your Website Styles*/
 body{
   background-color: ;
+  text-align: center;
 }
 
 header{
   );
 }
 
+img {
+  border-radius: 10px;
+}
 
 a{
   font-family: font-family: 'Nunito', sans-serif;
-  color:; 
+  color: #000; 
   text-decoration: none;
 }
 
+h1 { 
+  color:darkgreen;
+
+}
+
+.vcd{
+  color: darkgrey;
+}
+
+h2{
+  color: darkgreen;
+}
 
 a:hover{
   color:darkgrey;
@@ -27,7 +43,12 @@ footer{
   font-size: 1em;
 }
 
+ul{
+  list-style: none;
+}
+
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
